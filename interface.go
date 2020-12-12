@@ -15,17 +15,17 @@ type Student struct {
 	Role string
 }
 
-func (s *Student)ReturnRole() string {
+func (s Student)ReturnRole() string {
 	return s.Role
 }
-func (s *Student)ReturnName()string  {
+func (s Student)ReturnName()string  {
 	return s.Name
 }
 
 func main() {
    student1:=Student{Name: "cfk",Role: "学生"}
    var role Role
-   role= &student1
+   role= student1
    fmt.Println(role.ReturnName())
    fmt.Println(role.ReturnRole())
 }
