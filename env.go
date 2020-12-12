@@ -7,5 +7,5 @@ import (
 
 func main() {
 	str:= os.Getenv("hh")
-	fmt.Println(str)
+	fmt.Println("哈哈",str,"end")
 }
