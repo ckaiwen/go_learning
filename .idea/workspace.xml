@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b3211a2-71b7-4c10-9943-2b78422d7947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/env_test.go" afterDir="false" />
-    </list>
+    <list default="true" id="9b3211a2-71b7-4c10-9943-2b78422d7947" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sa_system/modbus_device" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,10 +85,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2146" y="297" key="FileChooserDialogImpl" timestamp="1607739409472">
+    <state x="2146" y="297" key="FileChooserDialogImpl" timestamp="1607783528585">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2146" y="297" key="FileChooserDialogImpl/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1607739409472" />
+    <state x="2146" y="297" key="FileChooserDialogImpl/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1607783528585" />
     <state x="2211" y="439" key="Github.ShareDialog" timestamp="1607739057643">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -99,9 +97,9 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2147" y="225" key="Github.UntrackedFilesDialog/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1607739063142" />
-    <state x="1958" y="275" key="Vcs.Push.Dialog.v2" timestamp="1607739183230">
+    <state x="1958" y="275" key="Vcs.Push.Dialog.v2" timestamp="1607781942478">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1958" y="275" key="Vcs.Push.Dialog.v2/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1607739183230" />
+    <state x="1958" y="275" key="Vcs.Push.Dialog.v2/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1607781942478" />
   </component>
 </project>
